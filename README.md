@@ -1,4 +1,7 @@
 
+This is a kidney disease classification project, which will take the input image from the user and identify whether the image is of normal or tumor.
+
+
 ## Workflows
 
 1. Update config.yaml
